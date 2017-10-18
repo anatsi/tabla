@@ -36,6 +36,9 @@
   .izquierda{
     margin-left: 150px;
   }
+  tr, td, th{
+    min-width: 200px;
+  }
   .rwd-table td:before {
     display: none;
   }
